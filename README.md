@@ -19,5 +19,4 @@ yarn build
 ```
 
 ### LoginPage
-user: admin
-password: admin
+go to 'http://localhost:3000/dashboard'

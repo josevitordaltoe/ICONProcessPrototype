@@ -18,6 +18,6 @@ yarn dev
 yarn build
 ```
 
-### Customize the configuration
+### LoginPage
 user: admin
 password: admin
